@@ -1,5 +1,7 @@
 # pythonStockAnalyzer
 
+new information here
+
 This program downloads stock data from http://alphavantage.co and outputs a message for a potential purchase of either a call or a put. 
 
 Contents: 
